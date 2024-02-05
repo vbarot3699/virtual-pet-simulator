@@ -1,3 +1,6 @@
+
+ZOOM LINK: https://conestogac.zoom.us/rec/share/imeXBWqgrme9QgYSakIJG-2eXavfPCW2yjtQPYwQb-UiW8OkwJ1-89pPraAHh5A0.zickiQ06x0AC0I-D 
+
 # virtual-pet-simulator
 Virtual Pet Simulator
 
@@ -27,3 +30,5 @@ Project Specifications
 6. Experience and User Interface
 - Create a terminal interface that is easy to use, straightforward, and clear.
 - Provide the user with instructions on how to use the program.
+
+  
