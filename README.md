@@ -1,5 +1,5 @@
 
-ZOOM LINK: https://conestogac.zoom.us/rec/share/imeXBWqgrme9QgYSakIJG-2eXavfPCW2yjtQPYwQb-UiW8OkwJ1-89pPraAHh5A0.zickiQ06x0AC0I-D 
+ZOOM VIDEO LINK: https://conestogac.zoom.us/rec/share/imeXBWqgrme9QgYSakIJG-2eXavfPCW2yjtQPYwQb-UiW8OkwJ1-89pPraAHh5A0.zickiQ06x0AC0I-D 
 
 # virtual-pet-simulator
 Virtual Pet Simulator
